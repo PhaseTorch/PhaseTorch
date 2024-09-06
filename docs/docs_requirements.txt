@@ -3,7 +3,7 @@ torch==1.13
 scikit-image==0.19
 chemparse==0.1
 pillow==9.3
-sphinx==4.5
+sphinx>=5.0
 nbsphinx==0.9
 ipython==8.11
 matplotlib==3.6
